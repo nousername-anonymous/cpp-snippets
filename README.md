@@ -1,6 +1,6 @@
 All valid pull requests will be approved.
 
-- [ ] Sorting
+- [X] Sorting
 - [ ] Searching
 - [ ] Sorting via STL
 - [ ] Searching via STL
